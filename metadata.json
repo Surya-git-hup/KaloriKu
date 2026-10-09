@@ -1,0 +1,6 @@
+{
+  "name": "KaloriKu - Hitung Kalori & Nutrisi Sehat",
+  "description": "Prototipe interaktif KaloriKu: pemindaian makanan cerdas, hitung kalori harian, analisis makronutrisi, dan pelacakan pola makan sehat.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
